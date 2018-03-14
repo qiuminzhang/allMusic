@@ -1,0 +1,5 @@
+{"artist": "Mount Everest Trio", "album": "Waves From Albert Ayler", "album_url": "https://www.allmusic.com/album/waves-from-albert-ayler-mw0000061593", "release_year": "1975", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "John Wolf Brennan", "album": "Brennan: Moskau-Petuschki / Felix-Szenen", "album_url": "https://www.allmusic.com/album/brennan-moskau-petuschki-felix-szenen-mw0000066686", "release_year": "2000", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Ayuo", "album": "Izutsu", "album_url": "https://www.allmusic.com/album/izutsu-mw0000069625", "release_year": "2000", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Lois V. Vierk", "album": "River Beneath the River", "album_url": "https://www.allmusic.com/album/river-beneath-the-river-mw0000071092", "release_year": "2000", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Chris Cutler", "album": "2 Gentlemen in Verona", "album_url": "https://www.allmusic.com/album/2-gentlemen-in-verona-mw0000066242", "release_year": "2000", "image": null, "genre": ["Avant-Garde"], "style": null}

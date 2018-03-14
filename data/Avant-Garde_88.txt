@@ -1,0 +1,2 @@
+{"artist": "Mark Feldman", "album": "Music for Violin Alone", "album_url": "https://www.allmusic.com/album/music-for-violin-alone-mw0000150704", "release_year": "1995", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Trevor Watts", "album": "Live in Macedonia", "album_url": "https://www.allmusic.com/album/live-in-macedonia-mw0002576425", "release_year": "2013", "image": null, "genre": ["Avant-Garde"], "style": null}

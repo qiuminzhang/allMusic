@@ -1,0 +1,4 @@
+{"artist": "Daniel Pemberton", "album": "Bedroom", "album_url": "https://www.allmusic.com/album/bedroom-mw0000978621", "release_year": "1994", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Steve Reich", "album": "From the Kitchen Archives, No. 2: Live 1977", "album_url": "https://www.allmusic.com/album/from-the-kitchen-archives-no-2-live-1977-mw0000306131", "release_year": "2005", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "So Percussion", "album": "Drumming Live", "album_url": "https://www.allmusic.com/album/drumming-live-mw0003006142", "release_year": "2017", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Mushroom", "album": "Naked, Stoned, & Stabbed", "album_url": "https://www.allmusic.com/album/naked-stoned-stabbed-mw0001973518", "release_year": "2010", "image": null, "genre": ["Avant-Garde"], "style": null}

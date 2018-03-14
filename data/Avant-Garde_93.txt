@@ -1,0 +1,5 @@
+{"artist": "Erik Honor\u00e9", "album": "Heliographs", "album_url": "https://www.allmusic.com/album/heliographs-mw0002749497", "release_year": "2014", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Rhys Chatham", "album": "Youuu + Mee = Weee", "album_url": "https://www.allmusic.com/album/youuu-mee--weee-mw0002782057", "release_year": "", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Ingrid Laubrock", "album": "Let's Call This...", "album_url": "https://www.allmusic.com/album/lets-call-this-mw0001479511", "release_year": "2006", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Crystal Voices", "album": "Sounds of Light", "album_url": "https://www.allmusic.com/album/sounds-of-light-mw0000709463", "release_year": "1998", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Melt Banana", "album": "Speak Squeak Creak", "album_url": "https://www.allmusic.com/album/speak-squeak-creak-mw0000627335", "release_year": "1995", "image": null, "genre": ["Avant-Garde"], "style": null}

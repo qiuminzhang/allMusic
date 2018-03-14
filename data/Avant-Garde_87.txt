@@ -1,0 +1,8 @@
+{"artist": "Kevin Drumm", "album": "Sheer Hellish Miasma", "album_url": "https://www.allmusic.com/album/sheer-hellish-miasma-mw0000477730", "release_year": "2002", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Giovanni Allevi", "album": "Giovanni Allevi: Evolution", "album_url": "https://www.allmusic.com/album/giovanni-allevi-evolution-mw0000809410", "release_year": "2008", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Asmus Tietchens", "album": "Biotop", "album_url": "https://www.allmusic.com/album/biotop-mw0000840805", "release_year": "1981", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Spunk", "album": "Den \u00d8verste Toppen Pa en Blamalt Flaggstang", "album_url": "https://www.allmusic.com/album/den-%C3verste-toppen-pa-en-blamalt-flaggstang-mw0000697392", "release_year": "2002", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Fis", "album": "Clear Stones", "album_url": "https://www.allmusic.com/album/clear-stones-mw0003040839", "release_year": "2017", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Gabrielle Roth", "album": "Endless Wave, Vol. 1", "album_url": "https://www.allmusic.com/album/endless-wave-vol-1-mw0000066578", "release_year": "1996", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Gabrielle Roth", "album": "Tribe", "album_url": "https://www.allmusic.com/album/tribe-mw0000085619", "release_year": "2000", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "P.J. Olsson", "album": "Words for Living", "album_url": "https://www.allmusic.com/album/words-for-living-mw0000245567", "release_year": "1999", "image": null, "genre": ["Avant-Garde"], "style": null}

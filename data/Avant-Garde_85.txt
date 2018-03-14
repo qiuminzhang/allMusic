@@ -1,0 +1,3 @@
+{"artist": "Icu", "album": "Chotto Matte a Moment", "album_url": "https://www.allmusic.com/album/chotto-matte-a-moment-mw0000044523", "release_year": "1998", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Gabrielle Roth & the Mirrors", "album": "Luna", "album_url": "https://www.allmusic.com/album/luna-mw0000083504", "release_year": "1994", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Ashra", "album": "Tropical Heat", "album_url": "https://www.allmusic.com/album/tropical-heat-mw0000086346", "release_year": "1991", "image": null, "genre": ["Avant-Garde"], "style": null}

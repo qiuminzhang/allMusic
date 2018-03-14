@@ -1,0 +1,9 @@
+{"artist": "Peter Michael Hamel", "album": "Let It Play", "album_url": "https://www.allmusic.com/album/let-it-play-mw0000193423", "release_year": "1984", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Moebius", "album": "Ludwig's Law", "album_url": "https://www.allmusic.com/album/ludwigs-law-mw0000047967", "release_year": "1998", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Arnold Dreyblatt", "album": "Arnold Dreyblatt: Animal Magnetism", "album_url": "https://www.allmusic.com/album/arnold-dreyblatt-animal-magnetism-mw0000152117", "release_year": "1995", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Holger Hiller", "album": "As Is", "album_url": "https://www.allmusic.com/album/as-is-mw0000273489", "release_year": "1991", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Ekkehard Ehlers", "album": "A Life Without Fear", "album_url": "https://www.allmusic.com/album/a-life-without-fear-mw0000428196", "release_year": "2006", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Whitehouse", "album": "Great White Death", "album_url": "https://www.allmusic.com/album/great-white-death-mw0000968831", "release_year": "1985", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Laibach", "album": "Tanz Mit Laibach", "album_url": "https://www.allmusic.com/album/tanz-mit-laibach-mw0000710528", "release_year": "2004", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Wim Mertens", "album": "Whisper Me", "album_url": "https://www.allmusic.com/album/whisper-me-mw0000652845", "release_year": "1988", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Alain Goraguer", "album": "La Planete Sauvage", "album_url": "https://www.allmusic.com/album/la-planete-sauvage-mw0000107021", "release_year": "1973", "image": null, "genre": ["Avant-Garde"], "style": null}

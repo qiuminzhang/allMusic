@@ -1,0 +1,3 @@
+{"artist": "Roomful of Teeth", "album": "Roomful of Teeth", "album_url": "https://www.allmusic.com/album/roomful-of-teeth-mw0002409433", "release_year": "2012", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Eyvind Kang", "album": "The Face of the Earth", "album_url": "https://www.allmusic.com/album/the-face-of-the-earth-mw0002447676", "release_year": "2012", "image": null, "genre": ["Avant-Garde"], "style": null}
+{"artist": "Tomoko Mukaiyama", "album": "Women Composers", "album_url": "https://www.allmusic.com/album/women-composers-mw0000725687", "release_year": "", "image": null, "genre": ["Avant-Garde"], "style": null}
